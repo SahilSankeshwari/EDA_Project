@@ -155,9 +155,4 @@ Frontend:
 Utilities:
 - django-cors-headers (development CORS)
 
-## 10. Future Improvements
 
-- Authentication (user accounts for saved analyses)
-- File history storage
-- Database storage of reports and metadata
-- Deployment to cloud (containerized or PaaS)
